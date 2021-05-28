@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>Html</title>
+</head>
+<body>
+	 <h1> Welcome To Mearn Stack Web development </h1>
+	 <img src="https://i.morioh.com/139b757e13.png" width="450" height="350">
+	 <br>
+                       <p1>MERN stack is a web development framework. It consists of MongoDB, ExpressJS, ReactJS, and NodeJS as its working components. </p1><br>
+	 <p2>--->MongoDB</p2><br>
+                     <p3>--->ExpressJS</p3><br>
+	 <p4>--->ReactJS</p4><br>
+	 <p5>--->NodeJS</p5><br>
+	
+
+</body>
+</html>
+
+<form class="forma">
+	<input type="email" name="email" placeholder="Email" required><br><br>
+	<input type="password" name="password" placeholder="Password" required><br><br>
+	<input type="submit" name="submit" value="login">
+                
+</form>
+
+</body>
+
+<style>
+
+ .title1 {
+	color: black;
+	background-color: white;
+}
+ .forma{
+ 	text-align: center;
+ 	text-decoration-color: blue;
+ 	background-color: pink;
+  width: 200px;
+  height:100px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 10px;
+
+
+ }
+
+</style>
+</html>
+
